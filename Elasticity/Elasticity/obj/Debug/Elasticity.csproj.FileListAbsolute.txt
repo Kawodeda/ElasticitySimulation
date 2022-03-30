@@ -1,0 +1,11 @@
+c:\users\1\source\repos\Elasticity\Elasticity\bin\Debug\Elasticity.exe.config
+c:\users\1\source\repos\Elasticity\Elasticity\bin\Debug\Elasticity.exe
+c:\users\1\source\repos\Elasticity\Elasticity\bin\Debug\Elasticity.pdb
+c:\users\1\source\repos\Elasticity\Elasticity\obj\Debug\Elasticity.Form1.resources
+c:\users\1\source\repos\Elasticity\Elasticity\obj\Debug\Elasticity.Properties.Resources.resources
+c:\users\1\source\repos\Elasticity\Elasticity\obj\Debug\Elasticity.csproj.GenerateResource.cache
+c:\users\1\source\repos\Elasticity\Elasticity\obj\Debug\Elasticity.csproj.CoreCompileInputs.cache
+c:\users\1\source\repos\Elasticity\Elasticity\obj\Debug\Elasticity.exe
+c:\users\1\source\repos\Elasticity\Elasticity\obj\Debug\Elasticity.pdb
+C:\Users\1\source\repos\Elasticity\Elasticity\obj\Debug\Elasticity.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Elasticity\Elasticity\obj\Debug\Elasticity.csproj.SuggestedBindingRedirects.cache
